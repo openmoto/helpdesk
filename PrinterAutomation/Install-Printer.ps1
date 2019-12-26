@@ -1,6 +1,14 @@
 <#
-This script assumes you have exported printer list with GetPrinterList and also downloaded printer drivers from vendor and extracted to a file share
-using pnputil to export printer drivers will work but extracting downloaded printer driver from vendor gives you the latest browser and you also have option to link to different inf files depending on which (PCX5, PCL6, KX, 64 bit 32bit) you prefer.
+	.NOTES
+	===========================================================================
+	 Created with: 	Notepad++ v7.6.2
+	 Created on:   	26-Dec-19 7:07 AM
+	 Created by:   	Michael Agu
+	 Organization: 	ClockWorx IT
+	 Filename:     	Install-Printer.ps1
+	===========================================================================
+	.DESCRIPTION
+	This script assumes you have exported printer list with Get-PrinterList and also downloaded printer drivers and extracted drivers to a file share \\..\printers\ or used pnputil to export printer drivers.
 
 Please check C:\setup\printerlogs.txt for errors
 #>
