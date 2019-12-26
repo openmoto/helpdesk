@@ -1,0 +1,27 @@
+{ 
+   "defaultError":"The Application was unable to find or create the program folder, please contact your Administrator",
+   "hashFailError":"The application you are trying to run cannot pass trust verification. Please contact your Administrator",
+   "hashVersionError":"The application you are trying cannot pass trust verification. But the name is approved, please check your application version",
+   "apps":[ 
+      { 
+         "Name":"Komodo Labs NEWT Pro",
+         "Version":"2.5",
+         "MD5":"2472D4CC42393F2120F74E4EBB5C92E4"
+      },
+      { 
+         "Name":"Solarwinds CATTOOLS",
+         "Version":"3.11.0.5",
+         "MD5":"53FC0D540D66E8AFA4F29320BA42A712"
+      },
+      { 
+         "Name":"Komodo Labs NEWT Pro",
+         "Version":"2.5.355",
+         "MD5":"551DF08CEF6402A630B5B24214DAB9F3"
+      },
+      { 
+         "Name":"Google Chrome",
+         "Version":"78.0.3904.108",
+         "MD5":"1CB4A1AD9EE27F8DA3A3838F1D0A1573"
+      }
+   ]
+}
