@@ -1,0 +1,19 @@
+{
+	"Name": "CompanyName",
+	"P12KeyPath": "psgsuite-random.p12",
+	"AppEmail": "serviceaccountemail",
+	"AdminEmail": "gsuiteadminemail",
+	"CustomerID": "workspacecustomerid",
+	"Domain": "domain.tdl",
+	"ServiceAccountClientID": "ClientID",
+	"RequiredGroups": {
+		"Location": "",
+		"Drive": "",
+		"Apps": ""
+	},
+	"Templates": {
+		"Signature": "",
+		"OutOfOffice" : ""
+	}
+
+}

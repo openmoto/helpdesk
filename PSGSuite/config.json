@@ -1,0 +1,8 @@
+{
+	"Email" : "noreply@domain.com",
+	"Server" : "smtp-relay.google.com",
+	"Port" : 587,
+	"Ssl" : true,
+	"HTML" : true,
+	"LogAge" : 90
+}
