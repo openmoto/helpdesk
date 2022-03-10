@@ -65,20 +65,20 @@ https://www.googleapis.com/auth/userinfo.profile
 16. Save and test PSGSuite Commands
 
 
-**Folder Structure**
-PSGSuite/
-├─ domains/
-│  ├─ yourfirstdomain.com/
-│  │  ├─ config
-│  │  ├─ signature-template/
-│  │  │  ├─ signature1.html
-│  ├─ yourseconddomain.com/
-│  │  ├─ signature-template/
-│  │  │  ├─ signature1.html
-│  │  ├─ config
-CalendarACLTool.ps1
-Update-CalendarACL.ps1
-config
+**Folder Structure**  
+PSGSuite/  
+├─ domains/  
+│  ├─ yourfirstdomain.com/  
+│  │  ├─ config  
+│  │  ├─ signature-template/  
+│  │  │  ├─ signature1.html  
+│  ├─ yourseconddomain.com/  
+│  │  ├─ signature-template/  
+│  │  │  ├─ signature1.html  
+│  │  ├─ config  
+CalendarACLTool.ps1  
+Update-CalendarACL.ps1  
+config  
 
 **Tools:**
 1. Update-CalendarACL.ps1 :
