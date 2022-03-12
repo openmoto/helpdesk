@@ -7,13 +7,14 @@
 	"Domain": "domain.tdl",
 	"ServiceAccountClientID": "ClientID",
 	"RequiredGroups": {
-		"Location": "",
+		"Email": "",
 		"Drive": "",
-		"Apps": ""
+		"Security": ""
 	},
 	"Templates": {
 		"Signature": "",
-		"OutOfOffice" : ""
+		"OutOfOffice" : "",
+		"Disabled":""
 	}
 
 }
